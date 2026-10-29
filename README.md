@@ -6,11 +6,10 @@ Rio de Janeiro.
 
 ## Status
 
-Code accompanying a manuscript currently under review. On publication of the manuscript, this
-repository will carry the full analysis pipeline and figure code (archived with a Zenodo software
-DOI), alongside two data records: an open de-georeferenced table set (CC BY 4.0) and a
-request-gated georeferenced record. Until then, code and data are available to editors and
-reviewers through the journal.
+Code accompanying a manuscript. On publication of the manuscript, this repository will carry the
+full analysis pipeline and figure code (archived with a Zenodo software DOI), alongside two data
+records: an open de-georeferenced table set (CC BY 4.0) and a request-gated georeferenced record.
+Until then, this page is documentation only.
 
 ## Planned contents
 
